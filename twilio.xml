@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Gather numDigits="1" timeout="30" action="http://yourdomain.com">
+    <Play>Hello World</Play>
+  </Gather>
+  <Redirect>http://yourdomain.com</Redirect>
+</Response>
